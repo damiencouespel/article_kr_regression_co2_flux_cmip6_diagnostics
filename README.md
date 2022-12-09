@@ -1,1 +1,1 @@
-# ARTCLE-KR-REGRESSION-CO2-FLUX-CMIP6-DIAGNOSTICS
+# article_kr_regression_co2_flux_cmip6_diagnostics
